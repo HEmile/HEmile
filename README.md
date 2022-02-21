@@ -1,4 +1,10 @@
-### Hi there 👋
+I'm a PhD student at the VU University Amsterdam. My research focuses on combining symbolic reasoning and machine learning, or "Neuro-Symbolic AI". I've done work on [differentiable fuzzy logics](arxiv.org/abs/2002.06100), and on optimization with discrete latent variables. I'm also interested in Personal Knowledge Management and developed some plugins for [Obsidian](Obsidian.md).
+
+## Projects
+- [Storchastic](https://github.com/HEmile/storchastic): A PyTorch library which implements many gradient estimation methods.
+- [Juggl](https://github.com/HEmile/juggl): Obsidian plugin that adds a useful and customizable graph view.
+- [Graph Analysis](https://github.com/SkepticMystic/graph-analysis): Uses graph theory algorithms to find similarities between Obsidian notes.
+- [Supercharged Links](https://github.com/mdelobelle/obsidian_supercharged_links): Allows styling your Obsidian links.
 
 <!--
 **HEmile/HEmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
