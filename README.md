@@ -1,4 +1,4 @@
-I'm a PhD student at the VU University Amsterdam. My research focuses on combining symbolic reasoning and machine learning, or "Neuro-Symbolic AI". I've done work on [differentiable fuzzy logics](arxiv.org/abs/2002.06100), and on optimization with discrete latent variables. I'm also interested in Personal Knowledge Management and developed some plugins for [Obsidian](Obsidian.md).
+I'm a PhD student at the VU University Amsterdam. My research focuses on combining symbolic reasoning and machine learning, or "Neuro-Symbolic AI". I'm also interested in Personal Knowledge Management and developed some plugins for [Obsidian](Obsidian.md).
 
 
 <!--
