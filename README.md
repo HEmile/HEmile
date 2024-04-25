@@ -1,4 +1,4 @@
-I'm a PostDoc student at the University of Edinburgh. My research focuses on combining symbolic reasoning and machine learning, or "Neuro-Symbolic Learning". I'm also interested in Personal Knowledge Management and developed some plugins for [Obsidian](Obsidian.md). I'll soon obtain my PhD at the VU Amsterdam.
+I'm a PostDoc student at the University of Edinburgh. My research focuses on combining symbolic reasoning and machine learning, or "Neuro-Symbolic Learning". I'm also interested in Personal Knowledge Management and developed some plugins for [Obsidian](Obsidian.md). I obtained my PhD at the VU Amsterdam in 2024.
 
 
 <!--
