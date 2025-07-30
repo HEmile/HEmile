@@ -1,4 +1,4 @@
-I'm a PostDoc at the University of Edinburgh. My research focuses on combining symbolic reasoning and machine learning, or "Neurosymbolic Learning", and I am an organiser for [NeSy 2025](https://2025.nesyconf.org). I'm also interested in Personal Knowledge Management and developed some plugins for [Obsidian](https://obsidian.md). I obtained my PhD at the VU Amsterdam in 2024.
+I'm a PostDoc at the Vrije Universiteit Amsterdam (previously: University of Edinburgh). My research focuses on combining symbolic reasoning and machine learning, or "Neurosymbolic Learning", and I am an organiser for [NeSy 2025](https://2025.nesyconf.org). I'm also interested in Personal Knowledge Management and developed some plugins for [Obsidian](https://obsidian.md). I obtained my PhD at the VU Amsterdam in 2024.
 
 
 <!--
